@@ -19,7 +19,6 @@ A mechanism called the Loan Prediction System allows you to apply for loans and 
 ## Algorithms
 -  Decision Tree Classifier
 -  Naive_Bayes Algorithm
--  Random Forest Classifier
 
 
 ## Steps followed
